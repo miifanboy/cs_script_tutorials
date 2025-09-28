@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    
+    "checkJs": true,
+    "allowJs": true,
+    
+    "moduleResolution": "node" 
+  },
+  "include": [
+
+    "**/*.js", 
+
+    "C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/content/csgo/maps/editor/zoo/scripts/point_script.d.ts"
+  ]
+}
