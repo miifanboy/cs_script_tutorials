@@ -1,0 +1,1 @@
+ent_create point_script {"targetname" "aimscript" "cs_script" "scripts/tutorial.vjs"}
