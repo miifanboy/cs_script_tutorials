@@ -1,0 +1,3 @@
+alias "+k" "ent_fire aimscript runscriptinput K_P"
+alias "-k" "ent_fire aimscript runscriptinput K_R"
+bind k "+k"
