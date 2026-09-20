@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    
+    "checkJs": true,
+    "allowJs": true,
+    "module" : "node16",
+    "moduleResolution": "node16" 
+  },
+  "include": [
+
+    "**/*.js", 
+
+    "C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/content/csgo_addons/cs_script_demo/maps/scripts/point_script.d.ts"
+  ]
+}
